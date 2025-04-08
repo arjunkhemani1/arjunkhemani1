@@ -27,10 +27,11 @@ I'm a 22-year-old developer passionate about building intelligent systems. My ex
 
 ### 🌐 Connect & Collaborate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AI_Specialist-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alexcarter-ai)
-[![Twitter](https://img.shields.io/badge/Twitter-@alex_llmdev-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/alex_llmdev)
-[![Medium](https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium)](https://medium.com/@alex.carter.ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-AI_Projects-000000?style=for-the-badge&logo=About.me)](https://alexcarter.ai)
+[![Website](https://img.shields.io/badge/Website-AI_Projects-000000?style=for-the-badge&logo=About.me)](https://www.arjunkhemani.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-@arjunkhemani-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/arjunkhemani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjun_Khemani-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arjunkhemani/)
+
+
 
 ---
 
